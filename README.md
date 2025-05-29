@@ -1,4 +1,4 @@
-# Machine Learning and Deep Learning for Natural Language Processing
+#  Natural Language Processing
 
 This repository explores various machine learning and deep learning techniques applied in the field of Natural Language Processing (NLP). It covers essential preprocessing methods such as tokenization, stopwords removal, lemmatization, and stemming, which form the foundation of NLP tasks. By understanding and implementing these techniques, users can preprocess text data efficiently and build better-performing models for various NLP applications.
 
